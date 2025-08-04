@@ -7,6 +7,18 @@ This project analyzes loan performance data using SQL, with a focus on identifyi
 - Compare default rates across loan purposes and terms
 - Track missed payments trends over time
 
+- Analyze loan performance by customer demographics
+
+- Determine average default rate by credit score bracket
+
+- Segment risk levels
+
+## Sample Questions:
+
+What’s the default rate among customers with credit score < 600?
+
+What are the average loan amounts by income group?
+
 ## 🧱 Schema
 - `customers`: demographic and credit info
 - `loans`: loan-level info (amount, term, purpose, status)
